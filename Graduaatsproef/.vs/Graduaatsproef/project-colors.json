@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bdba47b-6cc5-4ec5-8a8c-9e05dbd589b7": {
+      "ProjectGuid": "3bdba47b-6cc5-4ec5-8a8c-9e05dbd589b7",
+      "DisplayName": "Graduaatsproef.Domain",
+      "ColorIndex": 0
+    },
+    "a10caea8-9960-4f56-9533-b833a662652f": {
+      "ProjectGuid": "a10caea8-9960-4f56-9533-b833a662652f",
+      "DisplayName": "Graduaatsproef.WPF",
+      "ColorIndex": 1
+    },
+    "ceb0655f-524e-48c2-a03c-31720a813c66": {
+      "ProjectGuid": "ceb0655f-524e-48c2-a03c-31720a813c66",
+      "DisplayName": "Graduaatsproef.Data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

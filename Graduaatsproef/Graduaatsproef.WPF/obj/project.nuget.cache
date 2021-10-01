@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sv0z1Pyep/mtH+DLwnTyAbS5VLF1pZxMBVykPIQDyB2F3JmZbSTWNiSmIQvVnti1aEbIhkxXdtW7j6YxlmyFig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thibe\\source\\repos\\Graduaatsproef\\Graduaatsproef.WPF\\Graduaatsproef.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thibe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
